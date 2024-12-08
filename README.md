@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1>Entendiendo mi movimiento diario</h1>
-<iframe src="https://public.tableau.com/views/Entendiendomimovimientodiario/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"</iframe>
+<"https://public.tableau.com/views/Entendiendomimovimientodiario/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
 </body>
 </html>
